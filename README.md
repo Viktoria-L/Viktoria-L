@@ -19,6 +19,8 @@
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
+<!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Viktoria-L&count_private=true&theme=react&showicons=true)]()-->
+
   ### 🖥️ Check out my repos ⬇️
   
 
