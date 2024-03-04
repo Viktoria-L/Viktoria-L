@@ -23,7 +23,4 @@
 <!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Viktoria-L&count_private=true&theme=react&showicons=true)]()-->
 
   ### 🖥️ Check out my repos ⬇️
-  
 
-
-   ![reactparrot](https://github.com/Viktoria-L/Viktoria-L/assets/113613194/16a46d91-8540-48ab-af81-0a417112c0a7)
