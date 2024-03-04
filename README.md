@@ -1,14 +1,15 @@
 ![banner1](https://github.com/Viktoria-L/Viktoria-L/assets/113613194/125fda37-b805-408a-9364-2f4446dde41f)
 
 
-- 🔭 I’m currently working on [my portfolio](https://viktoria-l.github.io/) and my Github-profile 😆. So stay tuned for more updates!
-- 🌱 I’m currently learning React!
-- 🤔 I am currently looking for an internship that starts in week 47!
+- 🔭 I’m currently updating my portfolio [my portfolio](https://viktoria-l.github.io/) and my Github-profile 😆. So stay tuned for more updates!
+- 🌱 I’m currently looking for work!
+- 🤔 I am currently doing my internship, will graduate may 2024!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/viktorialindberg/)
 <!-- - ⚡ Fun fact: ... -->
 - 🌴 💃 🌱
 
   ## My techstack
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
