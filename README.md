@@ -1,8 +1,8 @@
 [![banner1](https://github.com/Viktoria-L/Viktoria-L/assets/113613194/125fda37-b805-408a-9364-2f4446dde41f)](url)
 
-
+# Frontend developer
 - 🔭 I’m currently updating [my portfolio](https://viktoria-l.github.io/) and my Github-profile 😆. So stay tuned for more updates!
-- 🌱 I’m currently studying C# and .NET 
+- 🌱 I’m currently studying C# and .NET
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/viktorialindberg/)
 <!-- - ⚡ Fun fact: ... -->
 - 🌴 💃 🌱
