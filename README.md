@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently updating [my portfolio](https://viktoria-l.github.io/) and my Github-profile 😆. So stay tuned for more updates!
-- 🌱 I’m currently looking for work!
-- 🤔 I am currently doing my internship, will graduate may 2024!
+- 🌱 I’m currently studying C# and .NET 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/viktorialindberg/)
 <!-- - ⚡ Fun fact: ... -->
 - 🌴 💃 🌱
